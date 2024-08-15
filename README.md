@@ -90,6 +90,7 @@ This repository contains a Power BI dashboard that offers a comprehensive analys
 - **SuperStoreDashboard.pbix:** The Power BI dashboard file containing all the visualizations and data models.
 - **connection_info.txt:** Contains connection details used in the dashboard.
 - **SuperStoreDashboard_screenshot.png:** Screenshot of the dashboard
+- **SuperStore_Sales_Dataset.csv:** CSV file with sales details
 
 ## License
 
