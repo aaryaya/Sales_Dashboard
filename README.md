@@ -72,7 +72,11 @@ This repository contains a Power BI dashboard that offers a comprehensive analys
 
 ## Data Sources
 
-The dashboard utilizes a local CSV file. Ensure the file path in Power BI Desktop is updated to reflect the location of your CSV file.
+### SuperStore_Sales_Dashboard.csv
+
+1. **Columns:** Order ID, Sales, Profit, Quantity, Category, Sub-Category, State
+2. **Description:** This file provides transactional data specific to sales performance, including sales amounts, profit margins, quantities sold, and product categories. It is used for creating various visualizations such as sales trends, profit analysis, and regional performance.
+
 
 ## How to Use the Dashboard
 
