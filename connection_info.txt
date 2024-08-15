@@ -1,0 +1,23 @@
+# Connection Information for Power BI Dashboard
+
+## Dashboard File
+- **File Name:** SuperStoreDashboard.pbix
+- **Location:** Locally stored 
+
+## Data Sources
+  
+- **SuperStore_Sales_Dashboard.csv**
+  - **Columns:** Order ID, Sales, Profit, Quantity, Category, Sub-Category, State
+  - **Description:** Provides sales performance data, including sales amounts, profit margins, quantities sold, and product categories.
+
+## Data Connection Details
+- **Data Source Path:** Update the file path in Power BI Desktop to reflect the location of the CSV files.
+  - Example Path: [Specify the path to your CSV files]
+
+## Instructions for Updating Data Source
+1. Open the `.pbix` file in Power BI Desktop.
+2. Navigate to `Home` -> `Transform Data` -> `Data Source Settings`.
+3. Select the relevant data source and click `Change Source Settings`.
+4. Update the file path to point to the location of the CSV files on your local system.
+5. Click `OK` to apply changes and refresh the data.
+
